@@ -1,5 +1,5 @@
 👋 Hi, I’m @jmfrick1
-- 👀 I’m interested in coding, web design, game development, ethical hacking, CAD, and gardening. I'm a tech enthusiast with a libertarian twist! 🌐
+- 👀 I’m interested in coding, web design, game development, ethical hacking, CAD, and gardening. I'm a tech enthusiast with a twist! 🌐
 - 🌱 I’m currently learning advanced Java and Python, Stable Diffusion, and enhancing my web design skills with Figma and Next.js. 📚
 - 💞️ I’m looking to collaborate on innovative tech projects, game development, web design, CAD-related solutions, and anything that leverages my diverse skill set. 🤝
 - 📫 How to reach me: Feel free to reach out to me here on GitHub or connect with me on LinkedIn or any tech community platform. 💬
