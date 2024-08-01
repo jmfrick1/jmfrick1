@@ -48,6 +48,10 @@ Balancing work and life can be a bit weird for me because I don’t really have 
 ### Side Projects & Hobbies
 My side projects include all of the aforementioned activities, along with caring for my bunnies. I also have a deep interest in rendering and graphical work, which sometimes incorporates coding and IT knowledge. 🐰
 
+Thanks for the support
+
+buymeacoffee.com/jmfrick1
+
 ---
 
 <!---
