@@ -25,26 +25,6 @@ I’ve been coding and product developing since 2012, working across macOS, Wind
 - **Graphical Work:** Involved in house renderings and product renderings, which combine coding, IT knowledge, and graphical skills. 🏠
 - **iOS Design & Development:** Experienced in designing and developing iOS apps, leveraging Xcode and Swift to create functional and user-friendly applications. 📱
 
-### Personal Journey
-One of the most exciting projects I worked on was a game that I started years ago, but unfortunately, I lost it when my old computer died in 2015. Since then, I haven't worked on it much due to other commitments. My memorable experiences in coding often come from the challenging ones involving debugging and testing, and the excitement when everything finally works. 🎉
-
-### Inspiration & Goals
-I was inspired to start learning coding and product development because of my grandfather, who bought me my first computer and sparked my interest in technology, and my cousin, who taught me software and how to use various tools. The potential to help people, automate tasks, and the lucrative nature of the industry were also big motivators. My goal is to master product design and the ability to design what I want perfectly. While I’m starting small, I hope to get involved in some big projects in the future. 🌟
-
-### Motivation & Advice
-I stay motivated because there is always so much to learn in this field. It’s all about picking things you want to learn, and I never get tired of it because it’s always entertaining. For those just starting out, I’d recommend beginning with simpler programs like Greenfoot, which can make learning syntax and design fun and manageable. Once you know one version of a language, similar ones become easier to read. 📖
-
-### Fun Fact
-People might be surprised to learn that I have a knack for finding budget-friendly solutions and making the most of my resources. 💡
-
-### Music for Productivity
-I enjoy listening to music to boost my productivity. It helps me stay focused and get into the zone while working on various projects. 🎧
-
-### Work-Life Balance
-Balancing work and life can be a bit weird for me because I don’t really have a strict separation between the two. I’m always working on something, whether it's coding, gaming, graphic design, CAD work, or gardening. 🌱
-
-### Side Projects & Hobbies
-My side projects include all of the aforementioned activities, along with caring for my bunnies. I also have a deep interest in rendering and graphical work, which sometimes incorporates coding and IT knowledge. 🐰
 
 Thanks for the support
 
